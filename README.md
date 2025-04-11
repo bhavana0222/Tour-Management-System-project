@@ -53,9 +53,10 @@ cd tour-management-system
  private static final String PASSWORD = "your_password";
 
 4️⃣ Run the Application
+
 bash
-javac TourManagementSystem.java
-java TourManagementSystem
+->javac TourManagementSystem.java
+->java TourManagementSystem
 
 📝 Future Enhancements
 
