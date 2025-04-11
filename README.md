@@ -42,14 +42,15 @@ cd tour-management-system
 - Create a new database: tour_management_system  
 - Import the SQL schema provided in the project  
 
-3️⃣ Configure Database Credentials  
-Open the Java file and update the following:java
+3️⃣ Configure Database Credentials 
 
-private static final String URL = "jdbc:mysql://localhost:3306/tour_management_system";
-
-private static final String USER = "root";
-
-private static final String PASSWORD = "your_password";
+ Open the Java file and update the following:java
+ 
+ private static final String URL = "jdbc:mysql://localhost:3306/tour_management_system";
+ 
+ private static final String USER = "root";
+ 
+ private static final String PASSWORD = "your_password";
 
 4️⃣ Run the Application
 bash
